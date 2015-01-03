@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Hexo]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2015-01-03T21:28:37.911Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[John Doe]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[What influenced and inspired you to learn to code?]]></title>
+    <link href="http://yoursite.com/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/"/>
+    <id>http://yoursite.com/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/</id>
+    <published>2014-12-17T01:01:06.000Z</published>
+    <updated>2014-12-19T19:28:43.000Z</updated>
+    <content type="html"><![CDATA[<p>  My first experience with code was in middle school. I had a technology class<br>where we dabbled in several different softwares: Dreamweaver, Microworlds,<br>Flash. Not all of these were ‘real’ programming, mind you, but they were a<br>taste of what programming could do. From HTML and CSS in Dreamweaver, using<br>actionscript in Flash, or giving commands to make a little turtle move around<br>and draw things in Microworlds. I wanted to continue learning and even looked<br>at high schools that had programming classes. One high school, bronx science,<br>quickly becamse one of my top choices for that reason, and I tried downloading<br>a Java IDE and to try to learn Java myself in the meantime. I didn’t get far at<br>that point, not without guidance. I ended up going to a different high school,<br>which had great courses in engineering, but not so much in computer science. So<br>that was the end of my venture into programming in gradeschool.</p>
+<p>  Preoccupied with other things, I did not resume trying to learn programming<br>until I in college. Starting undergrad at Carnegie Mellon, I became friends<br>with many computer science majors, and having a natural curiousity for the<br>subject, I decided in fall of my sophomore year to take a computer science<br>class. It was a Python course, called Fundamentals of Programming. The school<br>had, that semester, split the course into two different versions: one which<br>was oriented towards non-majors, who perhaps had to take the class as a<br>requirement, and CS majors, who would be given a more intensive and in depth<br>experience, since they needed to have a solid foundation for CS before moving<br>further with their degree. The former was taught in Ruby, the latter in<br>Python, and I decided that I would take the harder one, if for no other reason<br>then I wanted the challenge, and also, that I had never heard of Ruby (the<br>irony is that I now know alot more Ruby than I do Python because of Rails). So<br>I began taking the class, and it ended up being one of the best courses I ever<br>took. The professor was so engaging and such a fantastic lecturer that I liken<br>him to Robin William’s character in The Dead Poets Society. You would think<br>that a CS lecture would be kind of dry, at best going over some key concepts<br>on a chalkboard, but these lectures, with this professor, had amazing programs<br>and come alive before your very eyes, he even started writing a whole new<br>programming language, in python, during a lecture. It was like watching one of<br>those cooking shows, where you really get to see someone make a recipe in a<br>way that lets you follow it later. It is because of this class that I really<br>fell in love with programming. </p>
+<p>  After that class I took the next programming course in the sequence, but<br>due to my involvement in extracurricular activities, lackluster teaching (the<br>polar opposite of the professor in the first course, and the dullest lectures<br>I’ve had the displeasure to sit through), also it was in C programming<br>language (or a subset created for the class called c0), I did not do well.<br>While after the first class I started thinking about a CS minor, after the<br>second I was discouraged from pursuing programming any further.</p>
+<p>  But something about my interest in programming just won’t quit. A year later<br>I once again found myself teaching myself some programming. This time in my<br>senior year. I decided to teach myself some C. I practiced by writing programs<br>to answer math problems from projecteuler.net. This was in the middle of a<br>semester and proved to be a rather slow way to progress in programming. C is a<br>whole different animal from Ruby and Python, and while it’s a great way to<br>learn how the computer itself works, its difficult to actually build anything<br>which means its rather hard to teach to yourself. I hope to go back to C some<br>day and really learn it, but for now I’m staying in the domain of higher level<br>languages. </p>
+<p>  The following semester I started learning Ruby. My previous stint learning<br>Ruby had been that same semester that I took that awful course in C0. I had<br>first tried to learn Ruby by joining the webteams of of the student theatre<br>organization on campus. The website was in Ruby on Rails. And for some reason<br>I was too impatient to take my time with Ruby first, and decided to dive right<br>into Rails. Needless to say, I was lost. Despite the similarities between Ruby<br>and Python, with which I was already familiar, I didn’t know enough Ruby to<br>actually understand what was happening in a Rails app. I didnt really grasp<br>the concept of MVC either. There were enough people on the webteam who already<br>knew Ruby and Rails that they didn’t really spend much time teach the few of<br>us who were new (I hear this changed later on, when the webteam got better<br>about training people under new leadership). But at the time I just kind of<br>tried to follow along, but ultimately everything was over my head and I<br>stopped going.</p>
+<p>  This time I was doing things differently. I would learn Ruby first, grasp<br>the fundamentals, get comfortable with the syntax and the heavier<br>object-orientedness compared with Python (python is pretty much equally<br>capable of being object oriented, but my course in python did not delve too<br>deeply into that). I used websites like rubymonk.com and codeacademy.com<br>to get a grasp of what ruby really did. I also learned some JQuery and messed<br>with common website features in javascript (sticky menu bars,<br>animated buttons, dropdown menus), from scratch. After learning ruby for about<br>a month I jumped into creating a Rails app. It was an app to replace the<br>shift management system for one of my campus jobs as a residence hall desk<br>attendant, and I really started to get the hang of what it involves to create<br>a web application (and how tedious it is to work with HTML and CSS, even with<br>bootstrap). After that things started moving more quickly. I had graduated,<br>moved back to NYC, started going to programming related meetups, job fairs,<br>found an internship working on an online marketplace for video game fan art. I<br>ultimately decided this is what I want to do, but that I could use some more<br>in depth experience, for which I turned to Fullstack Academy. After some<br>coding interviews where I am pretty sure I started out seeming slow, I was<br>accepted and that led me to write this. I can’t wait to learn a Node based<br>application stack, something about it just seems to have what Rails lacks.<br>Rails is fine, but it does alot for you, and going to a Rails bootcamp, where<br>there was no guarantee of delving deeper into the mechanics of building a good<br>web app didn’t seem like the best use of my time and money (and since I<br>already knew some rails, and bootcamps are usually geared towards complete<br>beginners), I figured I would apply to a bootcamp that would teach me<br>something both knew, and cutting edge. I can’t wait to get started.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>  My first experience with code was in middle school. I had a technology class<br>where we dabbled in several different softwares: Dreamw]]>
+    </summary>
+    
+      <category term="Programming" scheme="http://yoursite.com/tags/Programming/"/>
+    
+      <category term="Career" scheme="http://yoursite.com/tags/Career/"/>
+    
+      <category term="Interest" scheme="http://yoursite.com/tags/Interest/"/>
+    
+  </entry>
+  
+</feed>

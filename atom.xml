@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title><![CDATA[Hexo]]></title>
+  <title><![CDATA[Never Forget Pluto]]></title>
   
   <link href="/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2015-01-03T21:28:37.911Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://colin92.github.io/"/>
+  <updated>2015-01-05T02:49:52.635Z</updated>
+  <id>http://colin92.github.io/</id>
   
   <author>
-    <name><![CDATA[John Doe]]></name>
+    <name><![CDATA[Colin Meret]]></name>
     
   </author>
   
@@ -16,8 +16,8 @@
   
   <entry>
     <title><![CDATA[What influenced and inspired you to learn to code?]]></title>
-    <link href="http://yoursite.com/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/"/>
-    <id>http://yoursite.com/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/</id>
+    <link href="http://colin92.github.io/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/"/>
+    <id>http://colin92.github.io/2014/12/16/What-influenced-and-inspired-you-to-learn-to-code/</id>
     <published>2014-12-17T01:01:06.000Z</published>
     <updated>2014-12-19T19:28:43.000Z</updated>
     <content type="html"><![CDATA[<p>  My first experience with code was in middle school. I had a technology class<br>where we dabbled in several different softwares: Dreamweaver, Microworlds,<br>Flash. Not all of these were ‘real’ programming, mind you, but they were a<br>taste of what programming could do. From HTML and CSS in Dreamweaver, using<br>actionscript in Flash, or giving commands to make a little turtle move around<br>and draw things in Microworlds. I wanted to continue learning and even looked<br>at high schools that had programming classes. One high school, bronx science,<br>quickly becamse one of my top choices for that reason, and I tried downloading<br>a Java IDE and to try to learn Java myself in the meantime. I didn’t get far at<br>that point, not without guidance. I ended up going to a different high school,<br>which had great courses in engineering, but not so much in computer science. So<br>that was the end of my venture into programming in gradeschool.</p>
@@ -31,11 +31,11 @@
     <![CDATA[<p>  My first experience with code was in middle school. I had a technology class<br>where we dabbled in several different softwares: Dreamw]]>
     </summary>
     
-      <category term="Programming" scheme="http://yoursite.com/tags/Programming/"/>
+      <category term="Programming" scheme="http://colin92.github.io/tags/Programming/"/>
     
-      <category term="Career" scheme="http://yoursite.com/tags/Career/"/>
+      <category term="Career" scheme="http://colin92.github.io/tags/Career/"/>
     
-      <category term="Interest" scheme="http://yoursite.com/tags/Interest/"/>
+      <category term="Interest" scheme="http://colin92.github.io/tags/Interest/"/>
     
   </entry>
   
